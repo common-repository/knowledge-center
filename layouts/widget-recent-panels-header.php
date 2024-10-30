@@ -1,0 +1,1 @@
+<?php global $recent_panels_shc_count; ?><ul>

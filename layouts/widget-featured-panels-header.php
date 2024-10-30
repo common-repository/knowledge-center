@@ -1,0 +1,1 @@
+<?php global $featured_panels_shc_count; ?><ul>

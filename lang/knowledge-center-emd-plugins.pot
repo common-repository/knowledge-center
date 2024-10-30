@@ -1,0 +1,1906 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-05-30T12:40:29-04:00\n"
+"POT-Creation-Date: 2023-05-30T12:40:29-04:00\n"
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/field.php:234
+msgid "+ Add more"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:18
+msgid "Done"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:19
+msgid "Prev"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:20
+msgid "Next"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:21
+msgid "Today"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "January"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "February"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "March"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "April"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "May"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "June"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "July"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "August"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "September"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "October"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "November"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "December"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jan"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Feb"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Mar"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Apr"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jun"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jul"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Aug"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Sep"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Oct"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Nov"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Dec"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Sunday"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Monday"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Tuesday"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Wednesday"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Thursday"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Friday"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Saturday"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sun"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Mon"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Tue"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Wed"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Thu"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Fri"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sat"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Su"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Mo"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Tu"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "We"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Th"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Fr"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Sa"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/date.php:27
+msgid "Wk"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/datetime.php:33
+msgid "Choose Time"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/datetime.php:34
+msgid "Time"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/datetime.php:35
+msgid "Hour"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/datetime.php:36
+msgid "Minute"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/datetime.php:37
+msgid "Second"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/datetime.php:38
+msgid "Millisecond"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/datetime.php:39
+msgid "Time Zone"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/datetime.php:40
+msgid "Now"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file-advanced.php:64
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file-advanced.php:100
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file-advanced.php:101
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file.php:19
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file.php:20
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file.php:21
+msgid "File Size is greater than allowed limit."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file.php:22
+msgid "Invalid file type."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file.php:72
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file.php:85
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file.php:86
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file.php:96
+msgid "Max number of files: %s"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file.php:99
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file.php:107
+msgid "Max file size: %s"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/file.php:110
+msgid "File extensions allowed: %s"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/image-advanced.php:69
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/image-advanced.php:105
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/image-advanced.php:106
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/image.php:70
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/map.php:53
+msgid "Find Address"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/plupload-image.php:37
+msgid "The uploaded file is not a valid image. Please try again."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/plupload-image.php:105
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/plupload-image.php:106
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/plupload-image.php:107
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/plupload-image.php:182
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/post.php:66
+msgid "Select a %s"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:118
+msgid "This field is required."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:119
+msgid "Please fix this field."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:120
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:121
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:122
+msgid "Please enter a valid date."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:123
+msgid "Please enter a valid date ( ISO )"
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:124
+msgid "Please enter a valid number."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:125
+msgid "Please enter only digits."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:126
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:127
+msgid "Please enter the same value again."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:128
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:129
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:130
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:131
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:132
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:133
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: ./knowledge-center/assets/ext/emd-meta-box/inc/meta-box.php:297
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/class-emd-list-table.php:137
+msgid "Attribute"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/class-emd-list-table.php:140
+msgid "Taxonomy"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/class-emd-list-table.php:148
+msgid "Copy"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:35
+msgid "Misc"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:82
+msgid "Google Maps API Key"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:89
+msgid "Google requires api key to access google map service. By default we provide a complimentary key. Get your own google maps api key to avoid service interruptions"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:93
+msgid "Disable Bootstrap CSS"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:103
+msgid "Disables loading of Bootstrap stylesheet in plugin related pages when checked. You may need to disable it if your theme already uses Bootstrap based stylesheet."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:105
+msgid "Disable Bootstrap JS"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:115
+msgid "Disables loading of Bootstrap JavaScript in plugin related pages when checked. You may need to disable it if your theme already uses Bootstrap based JavaScript."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:119
+msgid "Autocomplete Minimum Input Length"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:128
+msgid "Autocomplete Number of Results Returned"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:139
+msgid "No Access Message"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:140
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:143
+msgid "Show Register / Login Form"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:145
+msgid "Only Message"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:146
+msgid "Registration and Login Forms"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:147
+msgid "Only Login Form"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions-misc.php:156
+msgid "Display the registration and login forms on the pages non-logged-in users don't have access to."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:45
+msgid "Entities"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:61
+msgid "Taxonomies"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:64
+msgid "Tools"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:67
+msgid "Settings Saved."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:193
+#: ./knowledge-center/includes/admin/settings-functions.php:1251
+msgid "Base slug"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:196
+msgid "Sets the custom base slug for single and archive %s. After you update,  flush the rewrite rules by going to the Permalink Settings page. This works only if post name based permalink structure is selected."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:198
+msgid "Single template"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:202
+#: ./knowledge-center/includes/admin/settings-functions.php:1260
+msgid "Right Sidebar"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:202
+#: ./knowledge-center/includes/admin/settings-functions.php:1260
+msgid "Left Sidebar"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:202
+#: ./knowledge-center/includes/admin/settings-functions.php:1260
+msgid "Full Width"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:210
+msgid "Sets the template for single %s."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:212
+#: ./knowledge-center/includes/admin/settings-functions.php:1270
+msgid "Container type"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:216
+#: ./knowledge-center/includes/admin/settings-functions.php:263
+#: ./knowledge-center/includes/admin/settings-functions.php:1274
+msgid "Fixed"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:216
+#: ./knowledge-center/includes/admin/settings-functions.php:263
+#: ./knowledge-center/includes/admin/settings-functions.php:1274
+msgid "Full"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:224
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for single %s. Full type provides a full width container, spanning the entire width of the viewport for single %s."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:226
+msgid "Hide previous next links"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:233
+msgid "Hides the previous and next %s links on the frontend for single %s."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:235
+msgid "Hide edit links"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:242
+msgid "Hides edit %s link on the frontend for single %s."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:246
+msgid "Archive template"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:257
+msgid "Sets the template for archive %s."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:259
+msgid "Archive container type"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:271
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for archive %s. Full type provides a full width container, spanning the entire width of the viewport for archive %s."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:273
+#: ./knowledge-center/includes/admin/settings-functions.php:1284
+msgid "Hide page navigation"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:280
+msgid "Hides the page navigation links on the frontend for archive %s."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:285
+#: ./knowledge-center/includes/admin/settings-functions.php:289
+#: ./knowledge-center/includes/admin/settings-functions.php:292
+#: ./knowledge-center/includes/admin/settings-functions.php:579
+#: ./knowledge-center/includes/admin/settings-functions.php:635
+#: ./knowledge-center/includes/admin/settings-functions.php:1169
+#: ./knowledge-center/includes/admin/settings-functions.php:1198
+msgid "Enable"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:286
+#: ./knowledge-center/includes/admin/settings-functions.php:290
+#: ./knowledge-center/includes/admin/settings-functions.php:580
+#: ./knowledge-center/includes/admin/settings-functions.php:636
+#: ./knowledge-center/includes/admin/settings-functions.php:1170
+#: ./knowledge-center/includes/admin/settings-functions.php:1199
+msgid "Disable"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:287
+#: ./knowledge-center/includes/admin/settings-functions.php:293
+#: ./knowledge-center/includes/admin/settings-functions.php:581
+#: ./knowledge-center/includes/admin/settings-functions.php:637
+#: ./knowledge-center/includes/admin/settings-functions.php:1171
+#: ./knowledge-center/includes/admin/settings-functions.php:1200
+msgid "Show only in Admin"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:305
+#: ./knowledge-center/includes/admin/settings-functions.php:306
+#: ./knowledge-center/includes/admin/settings-functions.php:1153
+#: ./knowledge-center/includes/admin/settings-functions.php:1154
+msgid "Show"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:305
+#: ./knowledge-center/includes/admin/settings-functions.php:306
+#: ./knowledge-center/includes/admin/settings-functions.php:1153
+#: ./knowledge-center/includes/admin/settings-functions.php:1154
+msgid "Do not show"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:306
+#: ./knowledge-center/includes/admin/settings-functions.php:1154
+msgid "Allow Edit"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:413
+msgid "Featured Image"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:690
+msgid "Attributes"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:692
+msgid "Enable: Display this attribute on everywhere</br>Disable: Remove this attribute from everywhere</br>Show only in Admin: This attribute is still enabled on admin area. If you want to hide this attribute on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:701
+#: ./knowledge-center/includes/admin/settings-functions.php:1188
+msgid "Visibility"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:703
+#: ./knowledge-center/includes/admin/settings-functions.php:1190
+msgid "Visitor"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:735
+msgid "Remove access restrictions on frontend"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:742
+msgid "Shows all %s to logged in and non-logged in users regardless of content access permissions assigned to their user role."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:749
+msgid "Use the options below to customize file uploads."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:752
+#: ./knowledge-center/includes/admin/settings-functions.php:939
+msgid "Maximum files"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:762
+#: ./knowledge-center/includes/admin/settings-functions.php:946
+msgid "Sets the maximum number of allowable file uploads."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:765
+#: ./knowledge-center/includes/admin/settings-functions.php:952
+msgid "Maximum file size"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:780
+#: ./knowledge-center/includes/admin/settings-functions.php:964
+msgid "Sets the maximum uploadable file size in kilobytes. Your server allows up to %s KB. Leave it blank to use server limit."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:782
+#: ./knowledge-center/includes/admin/settings-functions.php:970
+msgid "Allowed file extensions"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:792
+#: ./knowledge-center/includes/admin/settings-functions.php:977
+msgid "Sets the file extensions allowed to upload. Seperate each extension by a comma. For example: jpg,png,pdf"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:799
+#: ./knowledge-center/includes/admin/settings-functions.php:824
+msgid "Use the option below to select a default."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:801
+msgid "Default Country"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:826
+msgid "Default State"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:856
+msgid "Use the options below to customize %s %s."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:858
+msgid "Set placeholder"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:861
+msgid "Join the discussion..."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:868
+msgid "Set the depth of threaded (nested) comments"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:879
+msgid "All"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:884
+msgid "None"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:894
+msgid "Posts per page"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:906
+msgid "Show labels for user roles"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:912
+msgid "Displays the default plugin user roles (%s) next to the user name in a response box when a user belonging to that role leaves a reply."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:915
+msgid "Enable file uploads"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:927
+msgid "Enable file uploads for non-logged in users"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1030
+msgid "Frontend map settings"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1031
+msgid "Width"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1031
+msgid "Sets the map width.You can use '%' or 'px'. Default is 100%."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1032
+msgid "Height"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1032
+msgid "Sets the map height. You can use 'px'. Default is 480px."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1033
+msgid "Zoom"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1042
+msgid "Type"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1052
+msgid "Marker"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1053
+msgid "Display info window on page load"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1165
+msgid "Availability"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1181
+#: ./knowledge-center/includes/admin/settings-functions.php:1246
+msgid "Enable: Display this taxonomy on everywhere</br>Disable: Remove this taxonomy from everywhere</br>Show only in Admin: This taxonomy is still enabled on admin area. If you want to hide this taxonomy on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1253
+msgid "Sets the custom base slug for this taxonomy. After you update,  flush the rewrite rules by going to the Permalink Settings page."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1256
+msgid "Template"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1268
+msgid "Sets the template for the posts which belong to this taxonomy."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1282
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for this taxonomy. Full type provides a full width container, spanning the entire width of the viewport for this taxonomy."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1291
+msgid "Hides the page navigation links on the frontend for archive posts."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1328
+msgid "All missing pages were installed successfully."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1339
+#: ./knowledge-center/includes/admin/settings-functions.php:1341
+msgid "Install pages"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1342
+msgid "This tool will install all the missing %s pages. Pages already defined and set up will not be replaced."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1344
+msgid "Disable EMD Templating System"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1351
+msgid "Check this if you experience theme related issues. This will disable EMD Templating System and use your themes templates instead. It will also disable all the templating related options in Entities and Taxonomies tabs. If you still experience theme related issues after checking this option, read the plugin documentation's resolving theme related issues section."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1353
+msgid "Delete all settings"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1360
+msgid "This tool will delete all settings/options data including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1362
+msgid "Delete all data"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1375
+msgid "This tool will delete all %s data and related taxonomies including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen. As a best practice we recommend you to backup your database before selecting this option."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1377
+msgid "Custom CSS"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1381
+msgid "Custom CSS allows you to add your own styles or override the default CSS of this plugin. The CSS code written here is only applied to this plugin's frontend pages."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1383
+msgid "Custom JS"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/settings-functions.php:1387
+msgid "Custom JS allows you to add your own JavaScript. The JavaScript code written here is only applied to this plugin's frontend pages."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/shortcode-list-functions.php:20
+msgid "Visual ShortCode Builder"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/shortcode-list-functions.php:25
+#: ./knowledge-center/includes/admin/shortcode-list-functions.php:34
+msgid "The following shortcodes are provided by default. To use the shortcode, click copy button and paste it in a page."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/shortcode-list-functions.php:26
+msgid "To create advanced shortcodes click Create New button."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/shortcode-list-functions.php:29
+msgid "ShortCodes"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/shortcode-list-functions.php:35
+msgid "To learn more on how to create new shortcodes with filters go to the %s documentation.%s"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/shortcode-list-functions.php:62
+msgid "Error: Please try again."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/shortcode-list-functions.php:88
+msgid "Form"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/shortcode-list-functions.php:93
+#: ./knowledge-center/includes/admin/shortcode-list-functions.php:98
+msgid "View"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/singletax/class-emd-single-taxonomy.php:156
+msgid "Most Used"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/singletax/class-emd-single-taxonomy.php:221
+msgid "+ %s"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/store-functions.php:24
+msgid "Browse All"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/store-functions.php:64
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/store-functions.php:64
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/store-functions.php:89
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:24
+msgid "Please Select"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:36
+msgid "Standards"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:53
+msgid "AutoCompletes"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:61
+msgid "Integrations"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:72
+msgid "Charts"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:88
+msgid "Datagrids"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:96
+msgid "Calendars"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:179
+msgid "Create Shortcodes"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:180
+msgid "Select a component below to insert into any Post or Page."
+msgstr ""
+
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:195
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:217
+#: ./knowledge-center/includes/admin/wpas-btn-functions.php:218
+msgid "Create shortcodes using Visual Shortcode Builder"
+msgstr ""
+
+#: ./knowledge-center/includes/class-emd-widget.php:218
+msgid "Title"
+msgstr ""
+
+#: ./knowledge-center/includes/class-emd-widget.php:223
+msgid "Max number of %s to show"
+msgstr ""
+
+#: ./knowledge-center/includes/class-emd-widget.php:229
+msgid "Enable pagination"
+msgstr ""
+
+#: ./knowledge-center/includes/class-emd-widget.php:232
+msgid "Pagination size"
+msgstr ""
+
+#: ./knowledge-center/includes/class-emd-widget.php:234
+msgid "Small"
+msgstr ""
+
+#: ./knowledge-center/includes/class-emd-widget.php:235
+msgid "Medium"
+msgstr ""
+
+#: ./knowledge-center/includes/class-emd-widget.php:236
+msgid "Large"
+msgstr ""
+
+#: ./knowledge-center/includes/class-emd-widget.php:240
+msgid "Number of %s to show per pagination"
+msgstr ""
+
+#: ./knowledge-center/includes/class-emd-widget.php:355
+#: ./knowledge-center/includes/class-emd-widget.php:368
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ./knowledge-center/includes/common-functions.php:381
+msgid "Author:"
+msgstr ""
+
+#: ./knowledge-center/includes/common-functions.php:382
+#: ./knowledge-center/includes/common-functions.php:509
+msgid "%s \a\t %s"
+msgstr ""
+
+#: ./knowledge-center/includes/common-functions.php:516
+#: ./knowledge-center/includes/common-functions.php:522
+#: ./knowledge-center/includes/common-functions.php:525
+msgid "options"
+msgstr ""
+
+#: ./knowledge-center/includes/common-functions.php:1040
+#: ./knowledge-center/includes/common-functions.php:1054
+msgid "Please refresh the page and try again."
+msgstr ""
+
+#: ./knowledge-center/includes/dashboard-menu.php:30
+#: ./knowledge-center/includes/dashboard-menu.php:58
+msgid "Please select"
+msgstr ""
+
+#: ./knowledge-center/includes/dashboard-menu.php:221
+#: ./knowledge-center/includes/dashboard-menu.php:224
+msgid "Collapse Menu"
+msgstr ""
+
+#: ./knowledge-center/includes/dashboard-menu.php:437
+msgid "Add New"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:30
+msgid "Please enter layout for tooltip for %s."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:82
+msgid "No events to display"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:154
+msgid "Performers & Resources"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:161
+msgid "Please select all fields."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:162
+msgid "There are currently no appointments available."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:163
+msgid "No results found"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:164
+msgid "Loading More"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:165
+msgid "results left"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:166
+msgid "Searching ..."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:167
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:175
+msgid "No performers or resources found."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:196
+msgid "Internal Note"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:198
+msgid "Save"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:210
+msgid "Do you wish to reschedule your appointment?"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:214
+msgid "From"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:216
+msgid "To"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:217
+msgid "Send Reschedule Email"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:221
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:228
+msgid "Cancel"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:222
+msgid "Reschedule"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:225
+msgid "Do you want to cancel this appointment?"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:229
+msgid "No"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:255
+msgid "Show only resources having appointments"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:272
+msgid "Day A"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:273
+msgid "Day B"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:274
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:598
+msgid "Week"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:275
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:597
+msgid "Month"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:276
+msgid "List Day"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:277
+msgid "List Week"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:564
+msgid "title"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:599
+msgid "Day"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:1062
+msgid "Rescheduled successfully."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:1067
+msgid "This customer is not available for booking at this time."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:1072
+msgid "This resource is not available for this service."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:1077
+msgid "This resource has reached its max capacity at this time."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:1082
+msgid "This resource is not available for this event."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:1087
+msgid "This resource is not available at this time."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:1091
+msgid "There has been an error submitting your request."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:1492
+msgid "No results found."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:1514
+msgid "Enter Date"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:1519
+msgid "You can share your note here."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/calendar-admin-functions.php:1524
+msgid "Search"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:54
+msgid "Your settings have been saved."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:82
+msgid "Define calendar options by clicking on each entity name."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:125
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:161
+msgid "Views"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:131
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:147
+msgid "Basic Week"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:132
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:148
+msgid "Basic Day"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:133
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:149
+msgid "Agenda Week"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:134
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:150
+msgid "Agenda Day"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:135
+msgid "Views are ways of displaying days and events."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:141
+msgid "Default View"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:156
+msgid "Previous"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:158
+msgid "Previous Year"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:159
+msgid "Next Year"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:167
+msgid "Header Left"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:182
+msgid "Defines the buttons and title at the top left of the calendar."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:188
+msgid "Header Center"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:203
+msgid "Defines the buttons and title at the top center of the calendar."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:209
+msgid "Header Right"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:224
+msgid "Defines the buttons and title at the top right of the calendar."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:230
+msgid "Weekends (Include Saturday/Sunday columns)"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:235
+msgid "Whether to include Saturday/Sunday columns in any of the calendar views."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:241
+msgid "Fixed Week Count"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:246
+msgid "Determines the number of weeks displayed in a month view. If checked, the calendar will always be 6 weeks tall. If unchecked, the calendar will have either 4, 5, or 6 weeks, depending on the month."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:252
+msgid "Week Numbers"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:257
+msgid "Determines if week numbers should be displayed on the calendar."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:263
+msgid "Week Number Calculation)"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:269
+msgid "Local"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:270
+msgid "ISO"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:281
+msgid "The method for calculating week numbers that are displayed with the Week Numbers setting."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:287
+msgid "First Day(The day that each week begins)"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:310
+msgid "The day that each week begins."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:316
+msgid "Hidden Days"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:339
+msgid "Exclude certain days-of-the-week from being displayed."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:345
+msgid "Display in right-to-left mode"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:350
+msgid "Displays the calendar in right-to-left mode. This option is useful for right-to-left languages such as Arabic and Hebrew."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:356
+msgid "Event Background Color"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:361
+msgid "Sets the background color for all events on the calendar. You can use any of the CSS color formats such #f00, #ff0000, rgb(255,0,0), or red."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:367
+msgid "Event Border Color"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:372
+msgid "Sets the border color for all events on the calendar. You can use any of the CSS color formats such #f00, #ff0000, rgb(255,0,0), or red."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:378
+msgid "Event Text Color"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:383
+msgid "Sets the text color for all events on the calendar. You can use any of the CSS color formats such #f00, #ff0000, rgb(255,0,0), or red."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:389
+msgid "Event Limit"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:394
+msgid "Limits the number of events displayed on a day."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:400
+msgid "Event Limit Text"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:405
+msgid "Text for more link displayed."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:411
+msgid "jQuery UI Theme"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:420
+msgid "Smoothness"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:421
+msgid "UI lightness"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:422
+msgid "UI darkness"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:423
+msgid "Start"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:424
+msgid "Redmond"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:425
+msgid "Sunny"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:426
+msgid "Overcast"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:427
+msgid "Le Frog"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:428
+msgid "Flick"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:429
+msgid "Pepper Grinder"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:430
+msgid "Eggplant"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:431
+msgid "Dark Hive"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:432
+msgid "Cupertino"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:433
+msgid "South Street"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:434
+msgid "Blitzer"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:435
+msgid "Humanity"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:436
+msgid "Hot Sneaks"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:437
+msgid "Excite Bike"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:438
+msgid "Vader"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:439
+msgid "Dot Luv"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:440
+msgid "Mint Choc"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:441
+msgid "Black Tie"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:442
+msgid "Trontastic"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:443
+msgid "Swanky Purse"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:454
+msgid "Enables/disables use of jQuery UI theming."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:460
+msgid "Enable jQuery Tooltips"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:465
+msgid "Enable jQuery Tooltips."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:471
+msgid "Tooltip Layout"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:513
+msgid "Permalink"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:515
+msgid "Excerpt"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:518
+msgid "Content"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:520
+msgid "Author Display Name"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:520
+msgid "Author NickName"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:520
+msgid "Author First Name"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:520
+msgid "Author Last Name"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:520
+msgid "Author Username"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:520
+msgid "Author Bio"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:520
+msgid "Author Googleplus"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:520
+msgid "Author Twitter"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:524
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:525
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:526
+msgid "Not available"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:528
+msgid "Use template tags below to customize tooltips. Taxonomy and relationship tags produce link(s) to the related record(s). For no link tag, add %s to relationship or taxonomy tag. For example, for {mytag%s} tag produces a no link version of the tag. Check glossary tab for definitions."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:530
+msgid "Builtin"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:539
+msgid "Relationships"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:554
+msgid "Attribute Filters"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:565
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:586
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:614
+msgid "Adds the selected to the top of calendar."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:575
+msgid "Taxonomy Filters"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-calendar-core/class-emd-calendar.php:596
+msgid "Relationship Filters"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:38
+msgid "<strong>After purchasing the premium edition, please remove the free plugin</strong>. Don't worry, all your records will be preserved."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:47
+msgid "Check out <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">our documentation</a> for step-by-step instructions."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:253
+msgid "Import, Export and Update %s From/To CSV"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:254
+msgid "Do you have hundreds of %s in a spreadsheet and think about how to get them in WordPress? No problem!"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:256
+msgid "Sometimes, adding or updating %s one by one is NOT the smartest thing to do. Bulk import, update and take snapshots at will - more time to play!"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:260
+msgid "Get your %s in %s fast"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:261
+msgid "Bulk update %s with a single click"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:262
+msgid "Take periodic backups to protect yourself against data loss"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:263
+msgid "Reset and start from scratch anytime"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:266
+msgid "Create custom fields with ease"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:267
+msgid "Migrate %s from one site to another with ease"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:277
+msgid "Get your YouTube videos and update stats with a few clicks"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:278
+msgid "You can get your YouTube videos in WordPress and update their stats on demand or schedule. Bonus: Video updates are done automatically. "
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:280
+msgid "You can add multiple playlists and/or usernames and decide how often you want to get new videos or make updates to existing ones. Easy!"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:284
+msgid "Import from unlimited playlists"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:285
+msgid "Import from unlimited usernames"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:286
+msgid "On-demand video imports and updates"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:287
+msgid "On-schedule imports and updates"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:290
+msgid "Set your batch size for each run"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:291
+msgid "On-demand video stat updates"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:302
+msgid "Gather, display and search information with ease"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:303
+msgid "EMD Custom Field Builder is an easy to use yet powerful tool to customize your plugin by adding custom fields and taxonomies. "
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:305
+msgid "Learn more"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:309
+msgid "Create unlimited number of custom fields"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:310
+msgid "Provide additional level of information"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:311
+msgid "Include custom fields in submit forms to gather information *"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:312
+msgid "Include custom fields in search forms to allow finding information *"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:313
+msgid "Create 55+ different types of custom fields"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:316
+msgid "Create 4 types of custom taxonomies to group and categorize information"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:317
+msgid "Make custom fields as \"Required\" not to allow empty values"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:318
+msgid "Set a default value to offer initial option"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:319
+msgid "Enable or disable custom fields with a single click"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:320
+msgid "Limit access to information by displaying custom fields to selected user roles only"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:372
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:373
+msgid "Update to a Premium Edition to unlock Filters & Columns"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-lite/emd-lite.php:373
+msgid "Filters &amp; Columns"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-queue-mgt/emd-queue-mgt-functions.php:49
+#: ./knowledge-center/includes/emd-queue-mgt/emd-queue-mgt-functions.php:55
+msgid "Call Next"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-queue-mgt/emd-queue-mgt-functions.php:104
+#: ./knowledge-center/includes/emd-queue-mgt/emd-queue-mgt-functions.php:105
+msgid "Standby"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-queue-mgt/emd-queue-mgt-functions.php:140
+msgid "Performer"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-queue-mgt/emd-queue-mgt-functions.php:143
+msgid "NOW SERVING"
+msgstr ""
+
+#: ./knowledge-center/includes/emd-queue-mgt/emd-queue-mgt-functions.php:177
+msgid "Please wait for further announcements."
+msgstr ""
+
+#: ./knowledge-center/includes/emd-queue-mgt/emd-queue-mgt-functions.php:187
+msgid "Please report to the desk when your name is called."
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:154
+msgid "%s updated. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:155
+msgid "Custom field updated."
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:156
+msgid "Custom field deleted."
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:157
+msgid "%s updated."
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:159
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:160
+msgid "%s published. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:161
+msgid "%s saved."
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:162
+msgid "%s submitted. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:163
+msgid "%s scheduled for: <strong>%s</strong>. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:163
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:164
+msgid "%s draft updated. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:183
+msgid "CSV Import/Export"
+msgstr ""
+
+#: ./knowledge-center/includes/entities/class-emd-entity.php:608
+msgid "Duplicate"
+msgstr ""
+
+#: ./knowledge-center/layouts/emd-archive.php:43
+msgid "No archive records have been found."
+msgstr ""
+
+#: ./knowledge-center/layouts/emd-archive.php:71
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: ./knowledge-center/layouts/emd-archive.php:73
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ./knowledge-center/layouts/emd-single.php:48
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: ./knowledge-center/layouts/emd-single.php:49
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ./knowledge-center/layouts/emd-taxonomy.php:45
+msgid "No records have been found matching the term."
+msgstr ""

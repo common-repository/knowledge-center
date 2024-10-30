@@ -1,0 +1,1 @@
+<?php global $std_panel_shc_count; ?></div>

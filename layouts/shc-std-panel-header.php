@@ -1,0 +1,1 @@
+<?php global $std_panel_shc_count; ?><div class="panel-group" id="faq-grp" role="tablist">

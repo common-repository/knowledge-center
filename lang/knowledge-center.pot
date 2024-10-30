@@ -1,0 +1,652 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-05-30T12:40:49-04:00\n"
+"POT-Creation-Date: 2023-05-30T12:40:49-04:00\n"
+
+#: knowledge-center/includes/admin/getting-started.php:177
+msgid "Welcome to Knowledge Center Community %s"
+msgstr ""
+
+#: knowledge-center/includes/admin/getting-started.php:181
+msgid "Let's get started with Knowledge Center Community"
+msgstr ""
+
+#: knowledge-center/includes/admin/getting-started.php:183
+msgid "Upgrade Now"
+msgstr ""
+
+#: knowledge-center/includes/admin/getting-started.php:184
+msgid "Visit Pro Demo Site"
+msgstr ""
+
+#: knowledge-center/includes/admin/getting-started.php:186
+msgid "Getting Started"
+msgstr ""
+
+#: knowledge-center/includes/admin/getting-started.php:187
+msgid "Release Notes"
+msgstr ""
+
+#: knowledge-center/includes/admin/getting-started.php:188
+msgid "Resources"
+msgstr ""
+
+#: knowledge-center/includes/admin/getting-started.php:189
+msgid "Features"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:21
+msgid "Knowledge Center helps categorize related short content in a user-friendly way."
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:22
+msgid "The below are the definitions of entities, attributes, and terms included in Knowledge Center."
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:26
+msgid "Panels"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:29
+msgid "Any short length content which may be used to display term definitions, frequently asked questions etc."
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:29
+msgid "Attributes"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:31
+msgid "Title"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:32
+msgid " Title is a required field. Title is filterable in the admin area. Title does not have a default value. "
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:35
+msgid "Content"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:36
+msgid " Content does not have a default value. "
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:39
+msgid "ID"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:40
+msgid "Unique identifier for a panel. It is incremented by 1. Being a unique identifier, it uniquely distinguishes each instance of Panel entity. ID is filterable in the admin area. ID does not have a default value. "
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:43
+msgid "Featured"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:44
+msgid " Featured is filterable in the admin area. Featured does not have a default value. "
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:47
+msgid "Context Color"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:48
+msgid "Colors the panel header to highlight or group similar content. Context Color has a default value of <b>'default'</b>.Context Color is displayed as a dropdown and has predefined values of: default, primary, success, info, danger, warning."
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:51
+msgid "Initial State"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:52
+msgid "Sets the initial state of a panel's content. Initial State does not have a default value. "
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:53
+msgid "Taxonomies"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:55
+msgid "KC Group"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:57
+msgid " KC Group accepts multiple values like tags"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:57
+msgid "KC Group does not have a default value"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:57
+msgid "There are no preset values for <b>KC Group.</b>"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:61
+msgid "KC Tag"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:63
+msgid " KC Tag accepts multiple values like tags"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:63
+msgid "KC Tag does not have a default value"
+msgstr ""
+
+#: knowledge-center/includes/admin/glossary.php:63
+msgid "There are no preset values for <b>KC Tag.</b>"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:243
+msgid "Panel Rating"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:287
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:300
+msgid "Unique identifier for a panel. It is incremented by 1."
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:328
+msgid "Colors the panel header to highlight or group similar content."
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:331
+msgid "Please Select"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:332
+msgid "Default"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:333
+msgid "Primary"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:334
+msgid "Success"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:335
+msgid "Info"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:336
+msgid "Danger"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:337
+msgid "Warning"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:349
+msgid "Sets the initial state of a panel's content."
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:352
+msgid "Hide content"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:353
+msgid "Show content"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:369
+msgid "KC Groups"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:382
+msgid "KC Tags"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:437
+msgid "New To Knowledge Center? Review the documentation!"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:437
+#: knowledge-center/includes/class-install-deactivate.php:449
+msgid "&#187;"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:437
+#: knowledge-center/includes/class-install-deactivate.php:449
+msgid "Dismiss"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:449
+msgid "Get More Features to Empower Your Customers!"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:455
+msgid "Welcome to Knowledge Center"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:456
+msgid "Setup Knowledge Center Pages"
+msgstr ""
+
+#: knowledge-center/includes/class-install-deactivate.php:456
+msgid "Skip setup"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel-widgets.php:39
+msgid "Featured Panels"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel-widgets.php:39
+#: knowledge-center/includes/entities/class-emd-panel-widgets.php:108
+msgid "The most recent panels"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel-widgets.php:108
+msgid "Recent Panels"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:101
+msgid "Featured Image"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:283
+#: knowledge-center/includes/entities/class-emd-panel.php:460
+msgid "Panel"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:284
+msgid "Add New"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:285
+msgid "Add New Panel"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:286
+msgid "Edit Panel"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:287
+msgid "New Panel"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:288
+msgid "KC Panels"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:289
+msgid "View Panel"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:290
+msgid "Search Panels"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:291
+msgid "No Panels Found"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:292
+msgid "No Panels Found In Trash"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:350
+msgid "Search KC Groups"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:351
+msgid "Popular KC Groups"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:352
+#: knowledge-center/includes/entities/class-emd-panel.php:403
+msgid "All"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:355
+msgid "Edit KC Group"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:356
+msgid "Update KC Group"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:357
+msgid "Add New KC Group"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:358
+msgid "Add New KC Group Name"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:359
+msgid "Seperate KC Groups with commas"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:360
+msgid "Add or Remove KC Groups"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:361
+msgid "Choose from the most used KC Groups"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:401
+msgid "Search KC Tags"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:402
+msgid "Popular KC Tags"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:406
+msgid "Edit KC Tag"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:407
+msgid "Update KC Tag"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:408
+msgid "Add New KC Tag"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:409
+msgid "Add New KC Tag Name"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:410
+msgid "Seperate KC Tags with commas"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:411
+msgid "Add or Remove KC Tags"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:412
+msgid "Choose from the most used KC Tags"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:465
+msgid "Panel Info"
+msgstr ""
+
+#: knowledge-center/includes/entities/class-emd-panel.php:539
+msgid "CSV Import/Export"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:62
+msgid "Please help us improve Knowledge Center"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:64
+msgid "Allow eMDPlugins to collect your usage of Knowledge Center. This will help you to get a better, more compatible plugin in the future."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:65
+msgid "If you skip this, that's okay! Knowledge Center will still work just fine."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:68
+msgid "Do not allow"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:69
+msgid "Allow"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:76
+msgid "Please confirm your email address below to start receiving emails from us."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:94
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:95
+msgid "Your Profile Overview"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:95
+msgid "Name and email address"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:96
+msgid "Your Site Overview"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:96
+msgid "Site URL, WP version and PHP info"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:97
+msgid "Newsletter"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:97
+msgid "Updates, announcements, marketing, no spam"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:146
+msgid "Hi, I noticed you just crossed the %d %s milestone - that's awesome!"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:148
+msgid "Hi, I just noticed you have been using Knowledge Center for about a week now - that's awesome!"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:150
+msgid "Give <b>Knowledge Center</b> a <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> 5 star review <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> to help fellow WordPress users like YOU find it faster! <u>Your 5 star review</u> brings YOU a better FREE product and faster, motivated support when YOU need help."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:151
+msgid "Would you like to upgrade now to get more out of your %s?"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:157
+msgid "Yes, I want a better FREE product and faster support"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:159
+msgid "I already did - Thank you"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:160
+msgid "No, I don't want a better FREE product and faster support"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:161
+msgid "I want to upgrade"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:163
+msgid "Maybe later"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:182
+msgid "Docs"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:183
+msgid "Pro Version"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:203
+msgid "Settings"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:220
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:221
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:222
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:223
+msgid "Cancel"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:224
+msgid "Please share the reason so we can improve"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:225
+msgid "Would you like to open a support ticket?"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:226
+msgid "Please enter your email address."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:229
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:230
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:231
+msgid "The plugin update did not work as expected"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:232
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:233
+#: knowledge-center/includes/plugin-feedback-functions.php:240
+msgid "I found a better plugin"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:235
+msgid "I couldn't understand how to make it work"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:236
+msgid "The plugin is not working"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:237
+msgid "It's not what I was looking for"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:238
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:239
+msgid "The plugin is great, but I need a specific feature that is not currently supported"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:249
+msgid "It's a temporary deactivation. I'm just debugging an issue"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:250
+msgid "Other"
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:251
+msgid "No private information is sent during your submission. Thank you very much for your help improving our plugin."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:271
+msgid "Please share the plugin name."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:275
+msgid "Please share the feature that you were looking for so that we can develop it in the future releases."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:279
+msgid "We are sorry to hear that. Please share your previous version number before update, new updated version number and detailed description of what happened."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:283
+msgid "We are sorry to hear that. Please share the detailed description of what happened."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:287
+msgid "Please share what didn't work so we can fix it in the future releases."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:291
+msgid "Please share what you were looking for."
+msgstr ""
+
+#: knowledge-center/includes/plugin-feedback-functions.php:295
+msgid "Please share what you expected."
+msgstr ""
+
+#: knowledge-center/includes/scripts.php:78
+msgid "Please enter a unique value."
+msgstr ""
+
+#: knowledge-center/includes/scripts.php:79
+msgid "required"
+msgstr ""
+
+#: knowledge-center/includes/scripts.php:96
+msgid "Taxonomy"
+msgstr ""
+
+#: knowledge-center/includes/scripts.php:109
+#: knowledge-center/includes/scripts.php:114
+msgid "Relationship"
+msgstr ""
+
+#: knowledge-center/includes/scripts.php:260
+#: knowledge-center/includes/scripts.php:262
+#: knowledge-center/includes/scripts.php:269
+#: knowledge-center/includes/scripts.php:271
+msgid "Previous"
+msgstr ""
+
+#: knowledge-center/includes/scripts.php:260
+#: knowledge-center/includes/scripts.php:264
+#: knowledge-center/includes/scripts.php:269
+#: knowledge-center/includes/scripts.php:273
+msgid "Next"
+msgstr ""
+
+#: knowledge-center/knowledge-center.php:80
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: knowledge-center/knowledge-center.php:239
+msgid "KC Settings"
+msgstr ""
+
+#: knowledge-center/knowledge-center.php:244
+msgid "Glossary"
+msgstr ""
+
+#: knowledge-center/knowledge-center.php:252
+msgid "Shortcodes"
+msgstr ""
+
+#: knowledge-center/knowledge-center.php:256
+msgid "Plugins"
+msgstr ""
+
+#: knowledge-center/knowledge-center.php:260
+msgid "Support"
+msgstr ""
+
+#: knowledge-center/knowledge-center.php:279
+msgid "Licenses"
+msgstr ""
